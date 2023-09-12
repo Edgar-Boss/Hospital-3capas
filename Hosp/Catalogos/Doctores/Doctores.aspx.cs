@@ -50,7 +50,7 @@ namespace Hosp.Catalogos.Doctores
                 if (Request.QueryString["Id"] == null)
                 {
                     string salida = DAL_Doctores.InsertarDoctor(_doctor);
-                    if (salida.Contains("Error"))
+                    if (!salida.Contains("Error"))
                     {
                         mensaje = "Correcto";
                         sub = "Producto Nuevo Agregado";
