@@ -1,0 +1,9 @@
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\bin\Debug\DAL.dll
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\bin\Debug\DAL.pdb
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\bin\Debug\VO.dll
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\bin\Debug\VO.pdb
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\obj\Debug\DAL.dll
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\bin\Debug\VO.dll
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\bin\Debug\VO.pdb
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\obj\Debug\VO.csproj.AssemblyReference.cache
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\obj\Debug\VO.csproj.CoreCompileInputs.cache
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\obj\Debug\VO.dll
+C:\Users\TRNET-13\source\repos\Proyecto 3 capas\VO\obj\Debug\VO.pdb
